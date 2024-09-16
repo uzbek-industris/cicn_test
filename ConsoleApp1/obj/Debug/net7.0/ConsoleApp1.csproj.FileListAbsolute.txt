@@ -1,0 +1,28 @@
+D:\Рабочий стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Рабочий стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Рабочий стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\ВТОРАЯ ЛАБА\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
