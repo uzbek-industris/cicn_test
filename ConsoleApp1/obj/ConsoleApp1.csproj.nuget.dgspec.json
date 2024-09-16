@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий Стол\\RuuS\\!Тестирование и отладка программного обеспечения\\LABAGIT\\lab2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Papka_s_prikolami\\OSPanel2\\domains\\cicn_test\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий Стол\\RuuS\\!Тестирование и отладка программного обеспечения\\LABAGIT\\lab2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Papka_s_prikolami\\OSPanel2\\domains\\cicn_test\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий Стол\\RuuS\\!Тестирование и отладка программного обеспечения\\LABAGIT\\lab2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Papka_s_prikolami\\OSPanel2\\domains\\cicn_test\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Рабочий Стол\\RuuS\\!Тестирование и отладка программного обеспечения\\LABAGIT\\lab2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий Стол\\RuuS\\!Тестирование и отладка программного обеспечения\\LABAGIT\\lab2\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "E:\\Papka_s_prikolami\\OSPanel2\\domains\\cicn_test\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Ниггер\\.nuget\\packages\\",
+        "outputPath": "E:\\Papka_s_prikolami\\OSPanel2\\domains\\cicn_test\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ниггер\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

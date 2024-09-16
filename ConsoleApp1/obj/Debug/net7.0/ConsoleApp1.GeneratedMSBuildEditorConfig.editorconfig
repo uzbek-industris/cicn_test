@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp1
-build_property.ProjectDir = D:\Рабочий Стол\RuuS\!Тестирование и отладка программного обеспечения\LABAGIT\lab2\ConsoleApp1\ConsoleApp1\
+build_property.ProjectDir = E:\Papka_s_prikolami\OSPanel2\domains\cicn_test\ConsoleApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
